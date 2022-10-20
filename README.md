@@ -1,13 +1,5 @@
 # BW1
 
-Repo Build Week
-=======
-Repo Build Week
+Repo di prova
 
-prova di pull
-
-Pippo paperino e pluto
-
-seconda prova
-
-Terza prova
+Modifica ReadMe
